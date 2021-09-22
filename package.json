@@ -1,0 +1,7 @@
+{
+  "name": "mernSetup",
+  "version": "y",
+  "description": "setup",
+  "main": "index.js",
+  "license": "MIT"
+}
